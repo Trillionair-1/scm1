@@ -16,6 +16,4 @@ git commit -m "Initial commit"
 # push into github
 git push -u (file name) master
 
-nothing gto say ,...
-nsdbhubf 
-dcbgdfu
+when ever we edit the file we should commit , each time we do a change in the code we will add new commit.
