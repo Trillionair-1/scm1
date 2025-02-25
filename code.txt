@@ -16,4 +16,9 @@ git commit -m "Initial commit"
 # push into github
 git push -u (file name) master
 
-when ever we edit the file we should commit , each time we do a change in the code we will add new commit.
+when ever we edit the file we should commit , each time we do a change in the code we will add new commit
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+
