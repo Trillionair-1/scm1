@@ -13,3 +13,9 @@ git add .
 # Commit the changes
 git commit -m "Initial commit"
 
+# push into github
+git push -u (file name) master
+
+nothing gto say ,...
+nsdbhubf 
+dcbgdfu
