@@ -1,0 +1,15 @@
+# Navigate to your project folder
+cd myproject
+
+# Initialize a new Git repository
+git init
+
+# Create or add files
+touch index.html
+
+# Stage the files
+git add .
+
+# Commit the changes
+git commit -m "Initial commit"
+
