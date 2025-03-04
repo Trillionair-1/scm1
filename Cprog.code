@@ -11,4 +11,7 @@ printf("The entered number is even: %d",n);
 
 
 }
-
+else{
+printf("The given number is odd: %d",n);
+}
+}
