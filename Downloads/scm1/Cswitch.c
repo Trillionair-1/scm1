@@ -1,5 +1,5 @@
 #include <stdio.h>
-// documentation
+// documentation section
 int main() {
     int choice;
 
